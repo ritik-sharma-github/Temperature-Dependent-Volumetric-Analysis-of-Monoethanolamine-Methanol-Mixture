@@ -1,7 +1,3 @@
-Certainly! Here’s a detailed overview for your GitHub repository based on the project:
-
----
-
 ## **Project Overview**
 
 This project involves developing an Artificial Neural Network (ANN) model to predict the density and excess molar volume (VE) of a monoethanolamine-methanol binary mixture based on temperature and an additional feature. The dataset includes measurements of density and excess molar volume at various temperatures. The objective is to build a predictive model that can estimate these properties accurately. The project encompasses data preprocessing, exploratory data analysis (EDA), model development, and evaluation, with results saved for further analysis.
@@ -85,6 +81,12 @@ EDA is performed to understand the dataset and visualize relationships:
 1. **Comparison DataFrame**: Contains actual and predicted values for density and excess molar volume.
 2. **Plots**:
    - **Training and Validation RMSE Plot**: Shows the convergence of the model and performance over epochs.
+
+![download (3)](https://github.com/user-attachments/assets/0c3732c6-c62f-46eb-ad90-a90d134a4754)
+
+![download (4)](https://github.com/user-attachments/assets/d76d0222-9aa4-4272-af64-9380b211544b)
+
+![download (5)](https://github.com/user-attachments/assets/3e7bc5ba-8720-4a8b-a86d-9cc2e8c40401)
 
 3. **Saved Results**:
    - Comparison results are saved to an Excel file (`comparison_results.xlsx`).
